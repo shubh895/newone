@@ -1,1 +1,1 @@
-peint("Hello world");
+peint("Hello from the new features");
